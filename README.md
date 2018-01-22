@@ -47,7 +47,7 @@ $:nano urls.py  # link polls/urls.py
 
 $:python manage.py runserver 0:8008
 ```
-#wsgi
+# wsgi
 
 ```
 $:gunicorn mysite.wsgi -b0.0.0.0:8008
