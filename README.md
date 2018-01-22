@@ -1,3 +1,7 @@
+https://docs.djangoproject.com/en/2.0/intro/tutorial05/
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models
+
 # install python
 
 ```
